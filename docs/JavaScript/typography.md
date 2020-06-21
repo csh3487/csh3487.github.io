@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: Utilities
+parent: JavaScript
 nav_order: 48
 ---
 
