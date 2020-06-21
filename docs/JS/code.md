@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-parent: CSS
+parent: JS
 nav_order: 68
 ---
 

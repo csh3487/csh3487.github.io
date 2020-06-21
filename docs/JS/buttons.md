@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: CSS
+parent: JS
 nav_order: 88
 ---
 

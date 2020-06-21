@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lists
-parent: CSS
+parent: JS
 nav_order: 58
 ---
 

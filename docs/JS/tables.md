@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tables
-parent: CSS
+parent: JS
 nav_order: 48
 ---
 

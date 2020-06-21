@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Labels
-parent: CSS
+parent: JS
 nav_order: 38
 ---
 
