@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Color
-parent: Utilities
+parent: JavaScript
 nav_order: 3
 ---
 
