@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Color
-parent: JavaScript
-nav_order: 38
+parent: Utilities
+nav_order: 3
 ---
 
 # Color Utilities

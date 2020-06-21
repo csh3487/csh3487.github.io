@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Layout
-parent: JavaScript
-nav_order: 28
+parent: Utilities
+nav_order: 2
 ---
 
 # Layout Utilities

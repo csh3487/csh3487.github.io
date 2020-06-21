@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Typography
-parent: JavaScript
-nav_order: 48
+parent: Utilities
+nav_order: 4
 ---
 
 # Typography Utilities
