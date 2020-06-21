@@ -2,7 +2,7 @@
 layout: default
 title: Buttons
 parent: React
-nav_order: 2
+nav_order: 8
 ---
 
 # Buttons
