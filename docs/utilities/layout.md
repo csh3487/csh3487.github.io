@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Layout
-parent: JavaScript
+parent: Utilities
 nav_order: 2
 ---
 

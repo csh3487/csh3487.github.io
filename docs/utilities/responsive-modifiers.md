@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Responsive Modifiers
-parent: JavaScript
+parent: Utilities
 nav_order: 1
 ---
 
